@@ -1,0 +1,64 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #26292c;
+    align-items: center;
+    display: flex;
+    min-height: 100vh;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 45px;
+}
+
+.alert {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.trackcrud-form {
+    padding: 20px;
+    text-align: center;
+}
+
+.trackcrud-form input {
+    width: 50%;
+    clear: both;
+    height: 40px;
+    padding-left: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #cecece;
+}
+
+.trackcrud-form textarea {
+    width: 50%;
+    clear: both;
+    height: 200px;
+    padding-left: 15px;
+    margin-bottom: 20px;
+    resize: none;
+    border: 1px solid #cecece;
+}
+
+.trackcrud-form select {
+    width: 50%;
+    clear: both;
+    height: 40px;
+    padding-left: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #cecece;
+}
+
+.trackcrud-form button {
+    color: #fff;
+    background: #08a742;
+    font-weight: 700;
+    width: 40%;
+    line-height: 40px;
+    height: 40px;
+    border: none;
+    font-size: 20px;
+    padding: 0px;
+}
