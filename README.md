@@ -15,7 +15,7 @@
 
 ## Autores
 
-[facebook](https://www.facebook.com/trackdevofc/)
+[Facebook](https://www.facebook.com/trackdevofc/)
 
 ## Observações
 
@@ -29,21 +29,21 @@
 
 ### Etapa 1
 
-- [ ] Criar arquivos de layout base;
-- [ ] Criar arquivo de layout de cabeçalho;
-- [ ] Criar arquivo de layout de rodapé;
-- [ ] Criar um arquivo CSS personalizado;
+- [x] Criar arquivos de layout base;
+- [x] Criar arquivo de layout de cabeçalho;
+- [x] Criar arquivo de layout de rodapé;
+- [x] Criar um arquivo CSS personalizado;
 
 ### Etapa 2
 
-- [ ] Criando registro em PHP da maneira POO;
-- [ ] Criar arquivo create.php;
-- [ ] Criar o botão "Atualixar;
-- [ ] Obter conexão com o banco de dados;
-- [ ] Criar a classe do banco de dados;
-- [ ] Criar um formulário HTML;
-- [ ] Código quando o formulário foi submetido;
-- [ ] Criar objeto;
+- [x] Criando registro em PHP da maneira POO;
+- [x] Criar arquivo create.php;
+- [x] Criar o botão "Atualixar;
+- [x] Obter conexão com o banco de dados;
+- [x] Criar a classe do banco de dados;
+- [x] Criar um formulário HTML;
+- [x] Código quando o formulário foi submetido;
+- [x] Criar objeto;
 
 ### Etapa 3
 
