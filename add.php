@@ -49,10 +49,10 @@
             ?>
             
             <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="post" class="trackcrud-form">
-                <input type="text" name="nome"  />
-                <input type="text" name="preco" />
+                <input type="text" name="nome" placeholder="Nome" />
+                <input type="text" name="preco" placeholder="Preço" />
 
-                <textarea name="descricao"></textarea>
+                <textarea name="descricao" placeholder="Descrição"></textarea>
 
                 <?php 
                     // Leia as categorias de produtos do banco de dados
